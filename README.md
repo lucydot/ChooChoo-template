@@ -4,10 +4,7 @@
 
 ![](./plots/summary_plot.png)
 
-**Links**
-- Class repository (TODO)
-
 **Instructions**  
 
-- Student instructions are [here]().
-- Instructor instructions are [here]().
+- Student instructions are [here](https://lucydot.github.io/ChooChoo/students/setup/).
+- Instructor instructions are [here](https://lucydot.github.io/ChooChoo/instructors/setup/).
