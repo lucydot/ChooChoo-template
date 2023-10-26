@@ -13,12 +13,12 @@ permissions:
     
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-python@v1
       with:
-        python-version: '3.6'
+        python-version: '3.11'
         architecture: 'x64'
     - name: read yaml settings gh-pages
       id: read-yaml-gh-pages
