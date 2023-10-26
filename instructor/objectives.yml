@@ -8,7 +8,7 @@ sections:
 - name: Running Python
 
   links:
-  - https://nu-cem.github.io/CompPhys/2021/08/02/01-Running_Python
+  - https://lucydot.github.io/python_novice/01-run-quit/index.html
   questions: []
   tutorials: []
   
@@ -28,7 +28,7 @@ sections:
 - name: Lists
 
   links:
-  - https://nu-cem.github.io/CompPhys/2021/08/02/01-lists
+  - https://lucydot.github.io/python_novice/05-lists/index.html
   questions: []
   tutorials: []
   
