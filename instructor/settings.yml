@@ -13,7 +13,6 @@ web_address: https://username.github.io/repo-name
 questions: true
 votes_required: 3
 gh-pages: true
-gh-pages_branch: gh-pages
 
 
 
