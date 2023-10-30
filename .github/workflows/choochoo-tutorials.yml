@@ -45,7 +45,7 @@ jobs:
         steps.read-yaml-gh-pages.outputs.data == 'True'
       uses: JamesIves/github-pages-deploy-action@v4.2.5
       with:
-        branch: steps.read-yaml-gh-pages-branch.outputs.data # The branch the action should deploy to.
+        branch: gh-pages # The branch the action should deploy to.
         folder: tutorials # The folder the action should deploy.
         target-folder: tutorials
         commit-message: build tutorials
